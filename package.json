@@ -18,8 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "gulp-util": "3.0.7",
-    "pug-lint": "2.1.2",
     "lodash": "3.10.1",
+    "pug-lint": "^2.5.0",
     "rcloader": "0.1.4",
     "through2": "2.0.0"
   },
